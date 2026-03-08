@@ -81,7 +81,7 @@ Dengue cases were observed across different housing categories such as:
  
 This indicates that mosquito breeding environments can exist in various residential conditions.
 
-**🔐 Analytical Insights:**
+# 🔐 Analytical Insights
 Based on the dengue dataset and Excel dashboard analysis, several meaningful insights were identified:
 
  1. Out of 1,000 total patients, 533 were confirmed dengue cases, indicating a significant infection rate within the dataset.
