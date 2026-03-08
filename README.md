@@ -20,7 +20,7 @@ These variables allow a multi-dimensional analysis of dengue outbreaks.
 
 # Tools and Techniques Used
 
-# Tool               # Purpose
+**Tool**              **Purpose**
 Microsoft Excel      Data cleaning and analysis
 Excel Pivot Tables   Data aggregation
 Excel Charts         Data visualization
@@ -29,54 +29,54 @@ Interactive Filters / Slicers Dynamic dashboard exploraFeatures
 # Dashboard Features
 The Excel dashboard presents multiple visual elements to make the data easy to understand.
 
-# Key Metrics
+**Key Metrics**
 
 The dashboard highlights several important indicators:
 
- • Total Patients
- • Dengue Positive Cases
- • NS1 Positive Cases
- • IgG Positive Cases
- • IgM Positive Cases
+ - Total Patients
+ - Dengue Positive Cases
+ - NS1 Positive Cases
+ - IgG Positive Cases
+ - IgM Positive Cases
  
 These metrics provide a quick overview of the dengue outbreak situation.
 
 # Key Insights
 
-# Most Affected Areas
+**Most Affected Areas**
 The analysis identifies the Top 10 dengue affected areas in Dhaka city, including:
 
- • Jatrabari
- • Demra
- • Tejgaon
- • Bangshal
- • Mohammadpur
- • Mirpur
- • Kafrul
- • Badda
- • Khilkhet
- • Dhanmondi
+ - Jatrabari
+ - Demra
+ - Tejgaon
+ - Bangshal
+ - Mohammadpur
+ - Mirpur
+ - Kafrul
+ - Badda
+ - Khilkhet
+ - Dhanmondi
  
 These locations recorded the highest number of dengue cases in the dataset.
 
-# Age Group Analysis
+**Age Group Analysis**
 
 The data shows that dengue cases are more common among 30–39 and 40–49 age groups. Children have comparatively fewer cases, suggesting that adults may face higher exposure due to daily activities and mobility.
 
-# Gender Distribution
+**Gender Distribution**
 
 The analysis indicates that dengue affects both genders, although male patients show slightly higher infection rates compared to female patients.
 
-# Housing Type Analysis
+**Housing Type Analysis**
 Dengue cases were observed across different housing categories such as:
 
- • Buildings
- • Tin-shed houses
- • Other residential structures
+ - Buildings
+ - Tin-shed houses
+ - Other residential structures
  
 This indicates that mosquito breeding environments can exist in various residential conditions.
 
-# Analytical Insights
+**Analytical Insights**
 Based on the dengue dataset and Excel dashboard analysis, several meaningful insights were identified:
 
  1. Out of 1,000 total patients, 533 were confirmed dengue cases, indicating a significant infection rate within the dataset.
@@ -92,11 +92,11 @@ Based on the dengue dataset and Excel dashboard analysis, several meaningful ins
 
 # Dashboard Filters
 The Excel dashboard includes several interactive filters that allow users to explore the data dynamically:
- • Gender
- • House Type
- • Area Type
- • Area Name
- • Age Group
+ - Gender
+ - House Type
+ - Area Type
+ - Area Name
+ - Age Group
  
 These filters help users analyze specific segments of the dataset more effectively.
 
