@@ -1,11 +1,11 @@
 # 📊 Dengue Outbreak Analysis in Dhaka City 
 
-# Project Overview
+# 📋 Project Overview
 
 This project analyzes dengue outbreak patterns in Dhaka city using an interactive Microsoft Excel dashboard. The analysis focuses on understanding how dengue cases are distributed across different demographic and environmental factors such as age groups, gender, housing types, and geographic locations.
 The dashboard provides a clear and structured view of the data, helping to identify high-risk areas and population groups that are more vulnerable to dengue infection.
 
-# Dataset Description
+# 📈 Dataset Description
 
 The dataset used in this project contains 1,000 patient records with several attributes that help analyze dengue infection patterns.
 The dataset includes the following variables:
@@ -18,15 +18,21 @@ The dataset includes the following variables:
  
 These variables allow a multi-dimensional analysis of dengue outbreaks.
 
-# Tools and Techniques Used
+# 🛠️ Tools and Techniques Used
 
-**Tool**              **Purpose**
-Microsoft Excel      Data cleaning and analysis
-Excel Pivot Tables   Data aggregation
-Excel Charts         Data visualization
-Interactive Filters / Slicers Dynamic dashboard exploraFeatures
+**Tool**              
+ - Microsoft Excel       
+ - Excel Pivot Tables   
+ - Excel Charts         
+ - Interactive Filters / Slicers 
 
-# Dashboard Features
+**Purpose**
+ - Data cleaning and analysis
+ - Data aggregation
+ - Data Visualization
+ - Dynamics dashboard exploration
+   
+# 🔭 Dashboard Features
 The Excel dashboard presents multiple visual elements to make the data easy to understand.
 
 **Key Metrics**
@@ -41,10 +47,10 @@ The dashboard highlights several important indicators:
  
 These metrics provide a quick overview of the dengue outbreak situation.
 
-# Key Insights
+# 🔍 Key Insights
 
-**Most Affected Areas**
-The analysis identifies the Top 10 dengue affected areas in Dhaka city, including:
+**Most Affected Areas:**
+The analysis identifies the Top 10 dengue affected areas in Dhaka city including:
 
  - Jatrabari
  - Demra
@@ -52,22 +58,23 @@ The analysis identifies the Top 10 dengue affected areas in Dhaka city, includin
  - Bangshal
  - Mohammadpur
  - Mirpur
- - Kafrul
+ - Kaf
+ - rul
  - Badda
  - Khilkhet
  - Dhanmondi
  
 These locations recorded the highest number of dengue cases in the dataset.
 
-**Age Group Analysis**
+**Age Group Analysis:**
 
 The data shows that dengue cases are more common among 30–39 and 40–49 age groups. Children have comparatively fewer cases, suggesting that adults may face higher exposure due to daily activities and mobility.
 
-**Gender Distribution**
+**Gender Distribution:**
 
 The analysis indicates that dengue affects both genders, although male patients show slightly higher infection rates compared to female patients.
 
-**Housing Type Analysis**
+**Housing Type Analysis:**
 Dengue cases were observed across different housing categories such as:
 
  - Buildings
@@ -76,7 +83,7 @@ Dengue cases were observed across different housing categories such as:
  
 This indicates that mosquito breeding environments can exist in various residential conditions.
 
-**Analytical Insights**
+**🔐 Analytical Insights:**
 Based on the dengue dataset and Excel dashboard analysis, several meaningful insights were identified:
 
  1. Out of 1,000 total patients, 533 were confirmed dengue cases, indicating a significant infection rate within the dataset.
@@ -90,7 +97,7 @@ Based on the dengue dataset and Excel dashboard analysis, several meaningful ins
  9. Dengue cases were identified across different housing types, including buildings and tin-shed houses, highlighting the widespread presence of mosquito breeding environments.
  10. The dashboard’s interactive filters reveal that dengue cases are influenced by multiple factors such as area, housing condition, and age group, emphasizing the need for targeted public health strategies.
 
-# Dashboard Filters
+# ⏳ Dashboard Filters
 The Excel dashboard includes several interactive filters that allow users to explore the data dynamically:
  - Gender
  - House Type
@@ -100,7 +107,7 @@ The Excel dashboard includes several interactive filters that allow users to exp
  
 These filters help users analyze specific segments of the dataset more effectively.
 
-# Project Structure
+# 🖇️ Project Structure
 
 Dengue-Outbreak-Analysis
 │
@@ -115,17 +122,17 @@ Dengue-Outbreak-Analysis
 │
 └── README.md
 
-# Dashboard Screenshot
+# 🎞️ Dashboard Screenshot
 <img width="875" height="574" alt="1773000446447130983882607778618" src="https://github.com/user-attachments/assets/17903ba9-0d4f-40e5-adbf-5a87b579cf3f" />
 
-# Recommendations
+# 🔰 Recommendations
 Based on the insights obtained from the dashboard:
 
  - Strengthen mosquito control
  - programs in high-risk areas.
  - Improve sanitation and waste management systems.
- -Increase public awareness about dengue prevenStructure
-Ensure faster healthcare response during peak outbreak periods.
+ -Increase public awareness about dengue prevenStructure.
+ - Ensure faster healthcare response during peak outbreak periods.
 
 # 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
