@@ -67,11 +67,9 @@ The analysis identifies the Top 10 dengue affected areas in Dhaka city including
 These locations recorded the highest number of dengue cases in the dataset.
 
 **Age Group Analysis:**
-
 The data shows that dengue cases are more common among 30–39 and 40–49 age groups. Children have comparatively fewer cases, suggesting that adults may face higher exposure due to daily activities and mobility.
 
 **Gender Distribution:**
-
 The analysis indicates that dengue affects both genders, although male patients show slightly higher infection rates compared to female patients.
 
 **Housing Type Analysis:**
