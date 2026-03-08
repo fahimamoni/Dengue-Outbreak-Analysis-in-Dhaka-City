@@ -9,12 +9,12 @@ The dashboard provides a clear and structured view of the data, helping to ident
 
 The dataset used in this project contains 1,000 patient records with several attributes that help analyze dengue infection patterns.
 The dataset includes the following variables:
- • Patient Gender
- • Age Group
- • Area Location
- • House Type
- • Area Type (Developed /  Underdeveloped)
- • Dengue Diagnostic Test Results (NS1, IgG, IgM)
+ - Patient Gender
+ - Age Group
+ - Area Location
+ - House Type
+ - Area Type (Developed /  Underdeveloped)
+ - Dengue Diagnostic Test Results (NS1, IgG, IgM)
  
 These variables allow a multi-dimensional analysis of dengue outbreaks.
 
