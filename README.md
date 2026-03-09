@@ -82,18 +82,17 @@ Dengue cases were observed across different housing categories such as:
 This indicates that mosquito breeding environments can exist in various residential conditions.
 
 # 🔐 Analytical Insights
-Based on the dengue dataset and Excel dashboard analysis, several meaningful insights were identified:
+From a data analytics perspective, this dashboard provides several meaningful insights:
 
- 1. Out of 1,000 total patients, 533 were confirmed dengue cases, indicating a significant infection rate within the dataset.
- 2. Male patients show slightly higher dengue infection rates compared to female patients, suggesting possible differences in exposure levels.
- 3. The 30–39 and 40–49 age groups recorded the highest number of dengue cases, indicating that working-age adults may face greater exposure.
- 4. Teenagers and young adults (10–29) also show noticeable infection levels, which suggests dengue risk is not limited to older populations.
- 5. Several urban locations such as Jatrabari, Demra, and Tejgaon appear among the most affected areas in the dataset.
- 6. Dengue cases are observed in both developed and underdeveloped areas, which indicates that infrastructure development alone does not eliminate dengue risk.
- 7. The presence of NS1 positive cases across multiple age groups suggests early-stage dengue infection is widely distributed in the population.
- 8. IgM positive results indicate recent infections, showing that dengue transmission is still active in several areas.
- 9. Dengue cases were identified across different housing types, including buildings and tin-shed houses, highlighting the widespread presence of mosquito breeding environments.
- 10. The dashboard’s interactive filters reveal that dengue cases are influenced by multiple factors such as area, housing condition, and age group, emphasizing the need for targeted public health strategies.
+**1.** Urban mobility may increase dengue exposure, as working-age groups show higher infection rates.
+
+**2.** High population density areas tend to report more dengue cases.
+
+**3.** Dengue outbreaks are influenced by environmental conditions rather than just housing quality.
+
+**4.** Early detection indicators such as NS1 positivity help identify infection patterns in the early stage of outbreaks.
+
+Such insights can support data-driven public health decisions and help prioritize high-risk locations.
 
 # ⏳ Dashboard Filters
 The Excel dashboard includes several interactive filters that allow users to explore the data dynamically:
@@ -120,7 +119,7 @@ Dengue-Outbreak-Analysis
 │
 └── README.md
 
-# 🎞️ Dashboard Screenshot
+# 📷 Dashboard Screenshot
 <img width="875" height="574" alt="1773000446447130983882607778618" src="https://github.com/user-attachments/assets/17903ba9-0d4f-40e5-adbf-5a87b579cf3f" />
 
 # 🔰 Recommendations
