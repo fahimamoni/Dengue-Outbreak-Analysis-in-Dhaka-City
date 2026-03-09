@@ -84,13 +84,13 @@ This indicates that mosquito breeding environments can exist in various resident
 # 🔐 Analytical Insights
 From a data analytics perspective, this dashboard provides several meaningful insights:
 
-**1.** Urban mobility may increase dengue exposure, as working-age groups show higher infection rates.
+**1.** **Urban mobility may increase dengue exposure**, as working-age groups show higher infection rates.
 
-**2.** High population density areas tend to report more dengue cases.
+**2.** **High population density areas** tend to report more dengue cases.
 
-**3.** Dengue outbreaks are influenced by environmental conditions rather than just housing quality.
+**3.** **Dengue outbreaks are influenced by environmental** conditions rather than just housing quality.
 
-**4.** Early detection indicators such as NS1 positivity help identify infection patterns in the early stage of outbreaks.
+**4.** **Early detection indicators such as NS1 positivity** help identify infection patterns in the early stage of outbreaks.
 
 Such insights can support data-driven public health decisions and help prioritize high-risk locations.
 
