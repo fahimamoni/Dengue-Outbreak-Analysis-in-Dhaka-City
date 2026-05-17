@@ -135,8 +135,9 @@ Based on the insights obtained from the dashboard:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 # 🧕 Author 
-• Fahima Akther Moni 
- fahimaakthermoni13@gmail.com
-
+**Fahima Akther Moni** 
+*Gmail:* 
+fahimaam25@gmail.com
+*Linkedin* https://www.linkedin.com/in/fahima-akther-moni
  
 
